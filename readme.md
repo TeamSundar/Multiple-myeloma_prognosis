@@ -26,18 +26,16 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h3 align="center">BRCA Multiomics</h3>
-
-  <p align="center">
-    Survival and drug response prediction for BRCA patients
-    <br />
-    <a href="https://github.com/TeamSundar/BRCA_multiomics"><strong>Vidhi Malik »</strong></a>
-    <!-- <a href="https://github.com/TeamSundar/BRCA_multiomics"><strong>Yogesh Kalakoti »</strong></a>
-    <a href="https://github.com/TeamSundar/BRCA_multiomics"><strong>Durai Sundar »</strong></a> -->
-    <br />
-    DAILAB, Indian Institute of Technology, Delhi
-
-  </p>
+  <h3 align="center">Neural Network Based Pattern Recognition Model for predic-tion of Survival Prognosis of Multiple Myeloma Patients</h3>
+ <p align="center">
+ <a align="center">Vidhi Malik 1, Shayoni Dutta 2, Navaneethan Radhakrishnan 1, Ritu Gupta 3,* and Durai Sundar 1,* </a>
+<p align="center">
+<a align="centre">1	DAILAB, Department of Biochemical Engineering & Biotechnology, Indian Institute of Technology (IIT) Delhi, New Delhi - 110 016, India; </a>
+<p align="center">
+<a align="centre">2	Language of Technical Computing, Data Analytics, MathWorks, New Delhi, 110001, India; </a>
+<p align="center">
+<a align="centre">3	Laboratory Oncology Unit, Dr. B.R.A.IRCH, All India Institute of Medical Sciences (AIIMS), Ansari Nagar, New Delhi, 110029, India.
+</a>
 </p>
 
 
