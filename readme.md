@@ -64,9 +64,7 @@ Multiple myeloma (MM) is malignancy of plasma cells, found in the bone marrow, w
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Tensorflow](https://getbootstrap.com)
 * [MATLAB](https://jquery.com)
-* [Python](https://laravel.com)
 
 
 
