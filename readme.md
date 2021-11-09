@@ -118,7 +118,7 @@ Please refer following table for symbols used for features like gender, chemothe
 |            | 8: cyclophosphamide, thalidomide,   dexamethasone (CTD) |                                          |
 
 
-2. CNV file
+2. CNV file:
 The required CNV input file should in the format specified in table below:
 
 
