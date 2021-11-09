@@ -118,7 +118,7 @@ Please refer following table for symbols used for features like gender, chemothe
 |            | 8: cyclophosphamide, thalidomide,   dexamethasone (CTD) |                                          |
 
 
-2. CNV file:
+2. CNV file
 The required CNV input file should in the format specified in table below:
 
 
@@ -137,9 +137,9 @@ Model will classifiy patient into three classes based on progression and death e
 2. Class 2: 10 (alive with relapse i.e., Progression event : 1 and death event: 0)
 3. Class 3:  0 (alive with no relapse i.e., Progression event :0 and death event: 0)
 
-The Matlab live script for proposed NCA-Neural network-based model is located in ./NCA-Neuralnet/ArrayCGH_NCA_Neural_net_92_7percent_accuracy_final_model.mlx
+## The Matlab live script for proposed NCA-Neural network-based model is located in ./NCA-Neuralnet/ArrayCGH_NCA_Neural_net_92_7percent_accuracy_final_model.mlx
 
-The Matlab live scripts for autoencoder based prediction models, DNN1 and DNN2 is located in directory ./DNN1_and_DNN2/ArrayCGH_DNN1_52_6_andDNN2_68_4percent_SVM_41_2_RUS_33percent.mlx
+## The Matlab live scripts for autoencoder based prediction models, DNN1 and DNN2 is located in directory ./DNN1_and_DNN2/ArrayCGH_DNN1_52_6_andDNN2_68_4percent_SVM_41_2_RUS_33percent.mlx
 
 
 
