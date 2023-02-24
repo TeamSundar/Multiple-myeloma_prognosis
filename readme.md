@@ -26,9 +26,9 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h3 align="center">Neural Network Based Pattern Recognition Model for predic-tion of Survival Prognosis of Multiple Myeloma Patients</h3>
+  <h3 align="center">Autoencoder and NCA based neural network model to estimate survival prognosis in multiple myeloma using arrayCGH data </h3>
  <p align="center">
- <a align="center">Vidhi Malik 1, Shayoni Dutta 2, Navaneethan Radhakrishnan 1, Ritu Gupta 3,* and Durai Sundar 1,* </a>
+ <a align="center">Vidhi Malik 1, Shayoni Dutta 2, Navaneethan Radhakrishnan 1, Yogesh Kalakoti 1, Ritu Gupta 3,* and Durai Sundar 1,* </a>
 <p align="center">
 <a align="centre">1	DAILAB, Department of Biochemical Engineering & Biotechnology, Indian Institute of Technology (IIT) Delhi, New Delhi - 110 016, India; </a>
 <p align="center">
