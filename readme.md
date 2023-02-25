@@ -28,14 +28,15 @@
 <p align="center">
   <h3 align="center">Autoencoder and NCA based neural network model to estimate survival prognosis in multiple myeloma using arrayCGH data </h3>
  <p align="center">
- <a align="center">Vidhi Malik 1, Shayoni Dutta 2, Navaneethan Radhakrishnan 1, Yogesh Kalakoti 1, Ritu Gupta 3,* and Durai Sundar 1,* </a>
+ <a align="center">Vidhi Malik 1, Shayoni Dutta 2, Navaneethan Radhakrishnan 1, Yogesh Kalakoti 1, Ritu Gupta 3,* and Durai Sundar 1,4,* </a>
 <p align="center">
-<a align="centre">1	Department of Biochemical Engineering & Biotechnology, Indian Institute of Technology (IIT) Delhi, New Delhi - 110 016, India; </a>
+<a align="centre">1	Department of Biochemical Engineering & Biotechnology, Indian Institute of Technology (IIT) Delhi, New Delhi - 110016, India; </a>
 <p align="center">
 <a align="centre">2 Certara UK Ltd, Quantitative systems pharmacology division of SimCyp, Level 2-Acero, 1 Concourse Way, Sheffield S1 2BJ, United Kingdom.; </a>
 <p align="center">
-<a align="centre">3	Laboratory Oncology Unit, Dr. B.R.A.IRCH, All India Institute of Medical Sciences (AIIMS), Ansari Nagar, New Delhi, 110029, India.
-</a>
+<a align="centre">3	Laboratory Oncology Unit, Dr. B.R.A.IRCH, All India Institute of Medical Sciences (AIIMS), Ansari Nagar, New Delhi, 110029, India.</a>
+<p align="center">
+<a align="cenre">4 Yardi School of Artificial Intelligence, Indian Institute of Technology (IIT) Delhi, New Delhi – 110016, India.</a>
 </p>
 
 
